@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://payrise.tabutility.com/sitemap.xml
